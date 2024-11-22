@@ -12,7 +12,12 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir 
+<<<<<<< HEAD
 developpeur java
+=======
+connaissance web
+fullstack
+>>>>>>> cc7e3edef4d9a8bfa901e3c6fc533e556490e3e8
 
 ```
 
